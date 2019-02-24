@@ -1,6 +1,6 @@
 <img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png" width="400" />
 
-## Visual Studio Code
+## Rainglow Themes for Visual Studio Code
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 [![Installs](https://img.shields.io/vscode-marketplace/d/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
