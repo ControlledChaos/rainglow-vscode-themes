@@ -2,6 +2,8 @@
 
 ## Rainglow Themes for Visual Studio Code
 
+Forked from [rainglow/vscode](https://github.com/rainglow/vscode)
+
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 [![Installs](https://img.shields.io/vscode-marketplace/d/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
 [![Rating](https://img.shields.io/vscode-marketplace/r/daylerees.rainglow.svg)](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow)
